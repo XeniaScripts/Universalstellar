@@ -9,4 +9,4 @@ game:GetService('StarterGui'):SetCore('SendNotification', {
 local _ = game.PlaceId
 local _ = game.PlaceId
 
-loadstring(game:HttpGet('https://redyn.vercel.app/Loader/KeySystem'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XeniaScripts/Key/refs/heads/main/678bc0800e4f4f06.lua.txt"))()
